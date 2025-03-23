@@ -1,0 +1,34 @@
+﻿{
+  "station_name": "xxx",
+  "date": "2025-01-06",
+  "measurements": [
+    {
+      "id": 1,
+      "time": "00:00",
+      "rainfall": 0.5,
+      "temperature": 15.2,
+      "wind_speed": 10.3
+    },
+    {
+      "id": 2,
+      "time": "06:00",
+      "rainfall": 0.0,
+      "temperature": 13.8,
+      "wind_speed": 8.7
+    },
+    {
+      "id": 3,
+      "time": "12:00",
+      "rainfall": 1.2,
+      "temperature": 18.5,
+      "wind_speed": 12.1
+    },
+    {
+      "id": 4,
+      "time": "18:00",
+      "rainfall": 0.3,
+      "temperature": 16.4,
+      "wind_speed": 9.5
+    }
+  ]
+}
